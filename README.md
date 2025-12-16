@@ -20,13 +20,13 @@ rasha sdra :)
 
 ### Part B: Planning Process (Scope Management)
 
-|  Task  | Document                   | Description                                                                          |
-|--------|----------------------------|--------------------------------------------------------------------------------------|
-| Task 1 | Requirements Documentation | Approach for collecting requirements with requirements traceability matrix           |
-| Task 2 | Scope Statement            | Detailed project scope definition including product characteristics and deliverables |
-| Task 3 | WBS                        | Work Breakdown Structure (Level 3 or 4)                                              |
-| Task 4 | Gantt Chart                | Project schedule with activities and timeline                                        |
-| Task 5 | Scope Validation Strategy  | Strategy for scope validation and change control                                     |
+|  Task  | Document                                                                                                        | Description                                                                          |
+|--------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Task 1 | [Requirements Collection Approach](Part%20B/Requirements%20Collection%20Approach.pdf)                           | Approach for collecting requirements with requirements traceability matrix           |
+| Task 2 | [Project Scope Statement](Part%20B/Project%20Scope%20Statement.pdf)                                             | Detailed project scope definition including product characteristics and deliverables |
+| Task 3 | [WBS](Part%20B/Work%20Breakdown%20Structure.pdf)                                                                | Work Breakdown Structure with hierarchical decomposition of project deliverables     |
+| Task 4 | [Gantt Chart](Part%20B/Gantt%20Chart.pdf)                                                                       | Project schedule with activities and timeline visualization                          |
+| Task 5 | [Scope Validation & Change Control Strategy](Part%20B/Scope%20Validation%20&%20Change%20Control%20Strategy.pdf) | Strategy for scope validation and change control processes                           |
 
 ---
 
