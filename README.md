@@ -39,13 +39,9 @@ rasha sdra :)
 
 ### Part D: Control Management
 
-|  Task  | Document                    | Description                             |
-|--------|-----------------------------|-----------------------------------------|
-| Task 1 | Cost and Schedule Variance  | CV, SV, CPI, and SPI calculations       |
-| Task 2 | Project Performance Report  | Analysis of schedule and budget status  |
-| Task 3 | Estimate at Completion      | EAC calculation using CPI               |
-| Task 4 | Project Duration Estimate   | Completion time estimate using SPI      |
-| Task 5 | Earned Value Chart          | Visual representation of EV, PV, and AC |
+|  Task  | Document                                                  | Description                                                                                                                                                              |
+|--------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| All    | [Control Management](Part%20D/Control%20Management.pdf)   | Complete control management including cost and schedule variance (CV, SV, CPI, SPI), estimate at completion (EAC), project duration estimate, project performance report, and earned value chart |
 
 ---
 
