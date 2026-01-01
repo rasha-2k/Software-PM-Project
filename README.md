@@ -32,13 +32,9 @@ rasha sdra :)
 
 ### Part C: Schedule Management
 
-|  Task  | Document                  | Description                                               |
-|--------|---------------------------|-----------------------------------------------------------|
-| Task 1 | Time and Effort Estimates | Estimated time and effort for project activities          |
-| Task 2 | Activity Dependencies     | Dependencies between project activities                   |
-| Task 3 | Network Diagram           | Project network diagram                                   |
-| Task 4 | Critical Path Analysis    | Forward and backward pass calculations with critical path |
-
+|  Task  | Document                                                  | Description                                                                                                      |
+|--------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| All    | [Schedule Management](Part%20C/Schedule%20Management.pdf) | Complete schedule management including time estimates, dependencies, network diagram, and critical path analysis |
 ---
 
 ### Part D: Control Management
